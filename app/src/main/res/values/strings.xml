@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p3p1APHM</string>
+    <string name="mostrar">MOSTRAR</string>
+    <string name="cargar">CARGAR INFORMACION</string>
+    <string name="lblmostrar" />
+    <string name="informacion">INFORMACION DEL ARCHIVO</string>
+</resources>
